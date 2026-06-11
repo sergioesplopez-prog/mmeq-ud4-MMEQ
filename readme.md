@@ -51,7 +51,7 @@ Recopilación de buenas prácticas profesionales en el montaje de equipos.
 
 ## 🎬 VÍDEO DE MONTAJE
 
-📌 Enlace al vídeo:
+📌 Enlace al vídeo: https://youtu.be/jGk5vUyZhNM
 
 (Este vídeo debe mostrar el proceso de montaje y desmontaje del equipo)
 
