@@ -24,24 +24,29 @@ Debes documentar al menos **3 errores**:
 
 📌 Descripción:
 (¿Qué ha ocurrido?)
+a la hora de atornillar la tapa para dcerrarla la caja no encajaba perfectamente con la tapa entonces a la hora de atornillarlo fue un poco mas tedioso
 
 📌 Tipo:
 (Real / Simulado)
-
+real
 📌 Fase del montaje:
 (Ejemplo: instalación de RAM, cableado, etc.)
-
+poniendo la tapa
 📌 Causa:
 (¿Por qué ocurre?)
+porque estaba muy justos los agujeros de la tapa comparados con los de la caja
 
 📌 Consecuencia:
 (¿Qué problema provoca?)
+requiere mas tiempo colocar los tornillos
 
 📌 Solución aplicada o propuesta:
 (¿Cómo se soluciona?)
+sujetas la tapa con una mano como empujandola para el borde que no encaja y con la otra atornillas
 
 📌 ¿Cómo prevenirlo?
 (Qué harías para evitarlo)
+asegurandome bien que encaja
 
 📸 Evidencia (si aplica):
 
@@ -50,18 +55,19 @@ Debes documentar al menos **3 errores**:
 # 🔴 ERROR 2
 
 📌 Descripción:
+a la hora de atornillar la placa base un tornillo no la fijaba bien
 
-📌 Tipo:
+📌 Tipo: mala fijación
 
-📌 Fase del montaje:
+📌 Fase del montaje: montando la placa base
 
-📌 Causa:
+📌 Causa: un tornillo no llegaba bien y lo cambié de lado y ya fijaba perfecto
 
-📌 Consecuencia:
+📌 Consecuencia: la placa se fijó bien
 
-📌 Solución:
+📌 Solución: cambiar de lado el tornillo
 
-📌 Prevención:
+📌 Prevención: antes de atornillar fijarse bien
 
 📸 Evidencia:
 
@@ -69,19 +75,20 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 3
 
-📌 Descripción:
+📌 Descripción: fuente de alimentación al revés 
 
-📌 Tipo:
+📌 Tipo: simulado
 
 📌 Fase del montaje:
+montaje de la fuente
 
-📌 Causa:
+📌 Causa: la fuente se puso al revés
 
-📌 Consecuencia:
+📌 Consecuencia: no encajaba con el panel
 
-📌 Solución:
+📌 Solución:darle la vuelta
 
-📌 Prevención:
+📌 Prevención: asegurarnos de que está en la correwcta posición
 
 📸 Evidencia:
 
@@ -90,7 +97,10 @@ Debes documentar al menos **3 errores**:
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Qué error te parece más grave? ¿Por qué?
+- la fuente de alimentación porque sin ella no enciende el ordenador
 
 - ¿Qué error es más común en principiantes?
+- los tornillos seguramente
 
 - ¿Qué has aprendido sobre la importancia de montar correctamente un equipo?
+que si lo montas mal luego tienes que estar deshaciendo todo lo que habias hecho y pierdes mucho tiempo
