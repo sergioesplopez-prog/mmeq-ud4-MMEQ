@@ -25,44 +25,49 @@ Las mejoras deben ser:
 # 🟢 MEJORA 1
 
 📌 ¿Qué mejorarías?
-(Describe el cambio que harías)
+la organización de los cables
 
 📌 ¿Por qué?
-(Explica el motivo)
+es mejor ya que está todo más recogido
 
 📌 ¿Cómo lo harías mejor?
-(Explica el proceso correcto)
+con bridas
 
 📌 ¿Qué beneficio tiene?
 (Ejemplo: evitar errores, mejorar rendimiento, mayor seguridad…)
+es más seguro también
 
 ---
 
 # 🟢 MEJORA 2
 
 📌 ¿Qué mejorarías?
+usar una pulsera electroestatica 
 
 📌 ¿Por qué?
-
+es más seguro para los componentes
 📌 ¿Cómo lo harías mejor?
-
+asegurandome de que la llevo bien puesta
 📌 Beneficio:
-
+evistas que la electricidad estatica pase a los componentes y los dañe
 ---
 
 # 🟢 MEJORA 3
 
 📌 ¿Qué mejorarías?
+organización de tornillos
 
 📌 ¿Por qué?
+si se pierden o se mezclan no podrás atornillar
 
 📌 ¿Cómo lo harías mejor?
-
+con un recipiente 
 📌 Beneficio:
 
----
+---evitamos que se pierdan o mezclen
 
 # 🧠 REFLEXIÓN FINAL
+estas mejoras nos ayudan a que el montaje sea más seguro 
 
 - ¿Crees que montar un equipo requiere experiencia? ¿Por qué?
 
